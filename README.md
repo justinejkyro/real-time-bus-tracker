@@ -8,13 +8,11 @@ Work in progress, always
 ## License Information
 MIT license (see LICENSE.md file for additional details)
 
-## Technologies 
-How to Run: This is information someone would use to run your project on their machine.
-
-Will need API access token from mapbox (explain how to obtain that)
+## How to Run 
+Will need to request an API access token from mapbox. Read https://docs.mapbox.com/help/getting-started/ to learn more about how to get started with a mapbox account.
 
 ## Roadmap of Future Improvements
 No additional improvements or updates to this repo anytime soon
 
 ## Maintainers
-Justine (justinejkyro)
+Justine Kyro (justinejkyro)
